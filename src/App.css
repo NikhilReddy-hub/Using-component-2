@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.post img {
+  width: 500px;  /* Adjust width as needed */
+  height: 500px; /* Adjust height as needed */
+  object-fit: cover; /* Ensures the image fills the square */
+  border-radius: 0; /* Makes sure it's a square */
+}
+
